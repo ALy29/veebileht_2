@@ -178,7 +178,8 @@ justify-content: center;
 -moz-flex-basis: 300px;
 flex-basis: 300px;
 }
-  @media only screen and (min-width: 950px) {   
+  @media only screen and (min-width: 950px) {  
+    }
 
 header .header-banner {
 
@@ -205,6 +206,7 @@ header nav ul li {
 
 }
 @media only screen and (min-width: 950px) {
+      }
 
 .disclaimer {
 
@@ -254,3 +256,4 @@ color: #ffffff;
 text-transform: uppercase;
 
 }
+      }

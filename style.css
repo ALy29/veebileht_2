@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
 html {
-    img .gallery-image {
+}
+    .gallery-image img {
     width:70%;
         }
     header .header-banner {
@@ -20,7 +22,7 @@ text-align: center;
 padding: 10px 0 20px 0;
 
 }
-  @import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
+  
       
   
 header nav ul {
@@ -188,7 +190,6 @@ header .header-banner {
 }   
 
 header h1 a {
-
       font-size: 80px;
 
 }  
@@ -206,7 +207,7 @@ header nav ul li {
 
 }
 @media only screen and (min-width: 950px) {
-      }
+      
 
 .disclaimer {
 
@@ -256,4 +257,4 @@ color: #ffffff;
 text-transform: uppercase;
 
 }
-      }
+    }
